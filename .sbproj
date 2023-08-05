@@ -15,7 +15,7 @@
   "EditorReferences": null,
   "Metadata": {
     "CsProjName": "",
-    "PrimaryAsset": "Sandbox.Sdf.BlobTool",
+    "PrimaryAsset": "Sandbox.MoskalykA.ShadowRemover",
     "PhysicsMins": "-1,-1,-1",
     "PhysicsMaxs": "1,1,1",
     "RenderMins": "-1,-1,-1",
@@ -28,10 +28,6 @@
       "ReleaseMode": "Release",
       "References": [],
       "DistinctReferences": []
-    },
-    "Summary": "Make blobby geometry in Sandbox",
-    "Description": "Demo of facepunch.libsdf",
-    "Public": true,
-    "ReplaceTags": "demo sandbox sdf tool"
+    }
   }
 }
