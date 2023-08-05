@@ -1,0 +1,37 @@
+{
+  "Title": "Shadow remover",
+  "Type": "addon",
+  "Org": "moskalyka",
+  "Ident": "shadowremover",
+  "Tags": "sandbox shadow remover",
+  "Schema": 1,
+  "HasAssets": false,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "Sandbox.Sdf.BlobTool",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1",
+    "ParentPackage": "facepunch.sandbox",
+    "Compiler": {
+      "RootNamespace": "Sandbox.MoskalykA",
+      "DefineConstants": "SANDBOX;ADDON;DEBUG",
+      "NoWarn": "1701;1702;1591;",
+      "ReleaseMode": "Release",
+      "References": [],
+      "DistinctReferences": []
+    },
+    "Summary": "Make blobby geometry in Sandbox",
+    "Description": "Demo of facepunch.libsdf",
+    "Public": true,
+    "ReplaceTags": "demo sandbox sdf tool"
+  }
+}
